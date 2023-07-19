@@ -12,4 +12,3 @@ The dataset used in this project is sourced from Kaggle and is a subset of the L
 
 The primary goal of this project is to construct a robust predictive model that can effectively determine whether a borrower is likely to repay their loan or not. By leveraging historical data, we aim to develop a model that can assess the creditworthiness of new potential customers accurately. This will enable us to make informed decisions when approving or rejecting loan applications in the future.
 
-Let's proceed with the implementation of the notebook to explore the dataset, perform data analysis, and build the predictive model.
